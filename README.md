@@ -41,6 +41,9 @@ Next step is to find a sweet spot somewhere over your desk where you can slap th
 I have a small storage loft above my desk so I just stuck it to the bottom of that. I can just turn my lights off and work
 with the desktop lights I made on my own.
 
+## Images
+![image1](https://github.com/AiryAir/desktop-lighting/blob/main/images/image1.jpg)
+![image2](https://github.com/AiryAir/desktop-lighting/blob/main/images/image2.jpg)
 
 ## How does this project work?
 <coming soon!>
