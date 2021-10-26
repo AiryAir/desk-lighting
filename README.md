@@ -33,7 +33,8 @@ Breadboard 25 --> -ve Rail 1 (we share the ground rail again)
 
 Now, connect a couple of LEDs on the +ve and -ve Rails on the breadboards and place one LED with +ve on breadboard pin 20 and -ve on 25.
 
-Download the file in my github repo and upload it to the arduino.
+Download the file in my github repo (dimmable_led.ino) and upload it to the arduino.
+
 Test out the circuit by turning the knob on the potentiometer. The lights should dim and brighten.
 
 Next step is to find a sweet spot somewhere over your desk where you can slap the arduino and the breadboard on to.
