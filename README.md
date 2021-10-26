@@ -41,8 +41,10 @@ Next step is to find a sweet spot somewhere over your desk where you can slap th
 I have a small storage loft above my desk so I just stuck it to the bottom of that. I can just turn my lights off and work
 with the desktop lights I made on my own.
 
-It does look kinda cool, check it out:
-Low light on my phone aint great but trust me it looks goooooooood in real life
+
+Low light on my phone aint great but trust me it looks goooooooood in real life :)))
+
+Check it out:
 
 ## Images
 ![image1](https://github.com/AiryAir/desktop-lighting/blob/main/images/image1.jpg)
