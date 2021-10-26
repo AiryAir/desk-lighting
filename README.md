@@ -1,5 +1,5 @@
-# desktop-lighting
-Dimmable Desktop Lighting with an Arduino
+# desk-lighting
+Dimmable RGB Desk Lighting with an Arduino
 
 I made a small project for my own desktop where I used:
 - Arduino Uno 
