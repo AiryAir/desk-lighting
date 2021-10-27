@@ -13,6 +13,8 @@ The total cost of this project should be about US$15.
 ## How to make this on your own
 ### Connections:
 
+![image13](https://github.com/AiryAir/desktop-lighting/blob/main/images/image3.jpg)
+
 B10K VCC (input voltage) --> 5V on Arduino
 
 B10K GND (ground)        --> Ground on Arduino
